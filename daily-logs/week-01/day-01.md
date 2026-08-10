@@ -1,41 +1,40 @@
 # 🚀 DAILY GRIND CHECK-IN
 
 📅 Date:
-⏱️ Total Focused Hours: ___ hrs 🔥
+⏱️ Total Focused Hours: _0_ hrs 🔥
 
 ━━━━━━━━━━━━━━━━━━━━
 
-🤖 AI/ML: ___ hrs
-💻 DSA: ___ hrs
-🛠️ Other: ___ hrs
+🤖 AI/ML: __0_ hrs
+💻 DSA: _0__ hrs
+🛠️ Other: _0__ hrs
 
 ━━━━━━━━━━━━━━━━━━━━
 
 🧠 WHAT DID I COOK TODAY? 🍳
 
 🤖 AI/ML:
-→
+→N/A
 
 💻 DSA:
-→
+→N/A
 
 🛠️ Other:
-→
+→N/A
 
 ━━━━━━━━━━━━━━━━━━━━
 ❌ Struggles
-→
+→N/A
 ━━━━━━━━━━━━━━━━━━━━
 
-⭐ DAY RATING: ___ / 10
+⭐ DAY RATING: __0_ / 10
 
-🔥 GOOD DAY — Crushed it 💪
-⚡ AVERAGE DAY — Still showed up 🫡
+
 💀 BAD DAY — Got cooked today 😭
 
 ━━━━━━━━━━━━━━━━━━━━
 
 🎯 TOMORROW'S MISSION:
-→
+→ TO SHOW UP FOR ROUTINE
 
 SHOW UP. PUT IN THE WORK. REPEAT. 🚀
