@@ -30,11 +30,11 @@
 ⭐ DAY RATING: __0_ / 10
 
 
-💀 BAD DAY — Got cooked today 😭
+ AVERAGE DAY — Still showed up 🫡
 
 ━━━━━━━━━━━━━━━━━━━━
 
 🎯 TOMORROW'S MISSION:
-→ TO SHOW UP FOR ROUTINE
+→ TO SHOW UP again FOR complete  ROUTINE and complete remaining python and start dsa
 
 SHOW UP. PUT IN THE WORK. REPEAT. 🚀
