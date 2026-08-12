@@ -3,19 +3,21 @@
 from random import randint
 # import random
 
-def play_game():
-    lucky = randint(1,10)
+# def play_game():
+#     lucky = randint(1,10)
 
-    while True:
-        usr_num = int(input("guess your number"))
+play = lambda : randint(1,10)
 
-        if usr_num == lucky:
-            print("waao")
-            break
-        elif usr_num < lucky :
+while True:
+    usr_num = int(input("guess your number"))
+
+    if usr_num == play():
+         print("waao")
+         break
+    elif usr_num < play():
             print("Toolow")
-        else:
+    else:
             print("TOO HIGH")
-    print("won the game")
+print("won the game")
 
-play_game()
+play()
