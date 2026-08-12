@@ -1,12 +1,21 @@
-# def calculate_total (values) :
-#     total = 0
-#     for item in values :
-#         total = total+item*0
-#     return total
+# program a game of guess the lucky number
 
-# ani_exp_list = [5000,9990,3993]
+from random import randint
+# import random
 
-# aniket_tot = calculate_total (ani_exp_list)
+def play_game():
+    lucky = randint(1,10)
 
-# print(aniket_tot)
+    while True:
+        usr_num = int(input("guess your number"))
 
+        if usr_num == lucky:
+            print("waao")
+            break
+        elif usr_num < lucky :
+            print("Toolow")
+        else:
+            print("TOO HIGH")
+    print("won the game")
+
+play_game()
